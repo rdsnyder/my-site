@@ -1,3 +1,6 @@
+<style>
+    iframe { background-color: yellow; }
+</style>
 # IFrame Test
 
 <iframe 
